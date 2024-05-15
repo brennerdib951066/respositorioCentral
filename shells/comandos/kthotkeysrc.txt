@@ -1,0 +1,29 @@
+# Detalhes do arquivo kthotkeysrc do diretorio /home/estudo/.config/khotkeysrc no kubuntu KDE
+# Cria macros globais do teclado
+
+[Data_4]
+Comment=Ativa mayo suzake
+Enabled=true
+Name=mayo
+Type=SIMPLE_ACTION_DATA
+
+[Data_4Actions]
+ActionsCount=1
+
+[Data_4Actions0]
+DestinationWindow=0
+Input=:B:r:e:n:n:e:r
+Type=KEYBOARD_INPUT
+
+[Data_4Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_4Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_4Triggers0]
+Key=Ctrl+Alt+M
+Type=SHORTCUT
+Uuid={e7e91f9a-231b-43d0-9135-632c37331743}

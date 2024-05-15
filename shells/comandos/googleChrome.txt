@@ -1,0 +1,5 @@
+Opções do arquivo ~'/.config/google-chrome/Profile 1'
+# Neste dirétorio poderá configurar seu google chrome
+# Quando se cria o primeiro perfil google chrome, ele aparecerá como Default neste diretório específicamente
+
+FIM

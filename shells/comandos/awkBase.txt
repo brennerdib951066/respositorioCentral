@@ -1,0 +1,15 @@
+# Base do awk
+
+awk 'Tudo aqui entra aspas é um programa awk [padroes] {ações}' # as ações sempre estarão entre chaves
+
+# Chamando um programa externo em awk
+
+awk -f 'arquivoPrograma' 'arquivoBaseDeDaos.txt'
+
+# Escolhendo o intervalo de impressão de linhas
+
+awk 'NR==3,NR==10 {print $6}' arquivoBaseDeDaos.txt
+
+# Printando o campo 1 e enumerando as linhas com o NR printado
+awk -F',' 'NR!=1&&$2 >= 30 {print NR" "$1}' catalogo.txt
+

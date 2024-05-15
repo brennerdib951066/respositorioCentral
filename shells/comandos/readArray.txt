@@ -1,0 +1,16 @@
+# Detalhes do comando READARRY
+
+# readarry é um comando que recebe strings e salva em uma variável array
+
+# -d = Recebe a(s) string(s) salvando em uma array, essa opção é simplismente para específicar o delimitador para salvar as strings em array
+# -t = Não lembro para que serve
+
+#readarray [-d -t] [nomeDaArray] <<<stringvariavel
+
+# EXEMPLO
+
+# readarray -d',' -t dados <<<"variavel"
+
+# FIM
+
+

@@ -1,0 +1,9 @@
+Opções do comando TAIL
+# Tem a mesma função do comando Head porém faz o oposto
+
+-c = Imprime em bytes que correspondi ao numero inteiro após a opção -c200 por exemplo
+-n = Imprime a quantidade de linhas correspondi ao numero inteiro após a opção -n20 por exemplo
+
+tail [opcao(s)] [arquivo]
+
+FIM

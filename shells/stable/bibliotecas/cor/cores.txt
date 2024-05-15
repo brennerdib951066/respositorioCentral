@@ -1,0 +1,13 @@
+# Biblioteca de cores shell
+
+
+vermelho="\E[31;1m"
+verde="\E[32;1m"
+amarelo="\E[33;1m"
+azul="\E[34;1m"
+
+fechaCores="\E[m"
+
+
+cores=(${vermelho} ${verde} ${amarelo} ${azul})
+coresTexto=("Vermelho" "Verde" "Amarelo" "Azul")

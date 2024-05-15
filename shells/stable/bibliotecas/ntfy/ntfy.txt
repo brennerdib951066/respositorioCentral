@@ -1,0 +1,12 @@
+# Notificção via ntfy sh
+
+ntfy(){
+    titulo='Scripts Diários'
+    etiqueta='Tags'
+    prioridade='urgent'
+    topico='shell'
+
+
+    curl -H"Title:${titulo}" -H"Tags:${etiqueta}" -H"Priority:${prioridade}" -d "${1}" ntfy.sh/$topico
+}
+

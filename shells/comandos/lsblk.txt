@@ -1,0 +1,7 @@
+Opções do comando LSBLK
+
+# Lista os dispositivos do pc
+
+lsblk
+
+FIM

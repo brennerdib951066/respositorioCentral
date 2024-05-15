@@ -1,0 +1,3 @@
+awk -F',' '$2 > 5 {print $1 "\n" $2,$3,$4,$5}' awk.txt
+
+linguagem,Campo Separador,expressao ou avaliação,imprimir, Arquivo a ser usado

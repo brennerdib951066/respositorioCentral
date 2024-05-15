@@ -1,0 +1,12 @@
+# Opções do comando PASSWD
+# Muda a senha do usuario
+# passwd sem nenhuma opção específicando apenas o nome usuário, irá modificar a senha o tal usuário
+
+-l = Bloqueia o acesso, no caso a senha
+-u = Desbloqueia o acesso, no caso a senha
+-d = Deleta a senha do usuário
+-S = Printa o status da conta do usuário
+# passwd [Nome Do Usuário]
+# passwd [Opção(s)] [Nome De Usuário]
+
+Fim

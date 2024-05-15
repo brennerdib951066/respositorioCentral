@@ -1,0 +1,10 @@
+Opções do comando HEAD
+# Faz leitura de arquivos imprimindo por padrão 10 linhas
+
+-c = Imprimi as linhas baseando-se em bytes específicado com numero inteiro após a opção -c10 por exemplo 
+-n = imprime a quantidade de linhas baseando-se em em numero inteiro após a opção -n50 por exemplo
+-v = imprime os dados de forma verbal
+
+FIM
+
+head [opcao(s)] [arquivo]

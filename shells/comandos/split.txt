@@ -1,0 +1,10 @@
+Opçoes do comando SPLIT
+# Dividi um arquivo em varias partes
+
+-b = Dividi o arquivo em bytes através de um numero correspondente após a opção -b25 por exemplo
+-l = Dividi o arquivo na quantidade de linhas específicado após a opção -l50 por exemplo
+-n = A quantidade de arquivos serão criado específicado após a opção -n10, no total serão criados 10 arquivos
+
+split [opcao(s)] [arquivo]
+
+FIM

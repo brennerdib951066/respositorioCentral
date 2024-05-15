@@ -1,0 +1,10 @@
+Opções do arquivo /etc/inputrc
+# Arquivo de configuração que pode mapear as teclas, usada para o terminal linux
+
+EXEMPLO
+
+"\C-g": "Eu uso terminal"
+
+# Altere como root e depois logue na sua conta linux novamente para que sua configuração tenha efeito
+
+FIM

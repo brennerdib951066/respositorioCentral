@@ -1,0 +1,12 @@
+Opções do comando SORT
+
+-R = Organiza para o modo rondomico
+-k = Organizará para as colunas requerida de UM até DOIS(1,2) por exemplo
+-o = Manda a saída(output) para um arquivo desejado
+-t = Organiza por um separador vírgula(,) por exemplo
+-u = Pode ser usado para mostrar somente dados não repetidos de um arquivo, mesma funcionalidade do comando UNIQ
+
+Sort [opcao(s)] [opcao(opcional)] arquivo.txt 
+
+FIM
+

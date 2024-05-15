@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+brenner="213289248"
+brenda="156145702"
+daniele="193744989"
+denner="193741501"
+denner2="193742642"
+denner3="244360774"
+velho="205891341"
+jhonLennon="244570218"
+idFluxo="1997026"
+idFluxoJhon="2003887"
+imagem="bot.png"
+chaveAPI="bc4c4106-b876-4e28-b65e-5106e9431213"
+
+curl -X POST "https://backend.botconversa.com.br/api/v1/webhook/subscriber/$velho/send_flow/" -H "accept: application/json" -H "API-KEY: $chaveAPI" -H "Content-Type: application/json" -d "{ \"flow\": $idFluxoJhon}"

@@ -1,0 +1,11 @@
+Opçoes do arquivo do kde kglobalshortcutsrc
+
+# Fica localizado em /home/brenner/.config/kglobalshortcutsrc
+# Serve para configurar atalhos para serem usados conforme configurados
+
+[nome Do Programa.desktop]
+_k_friendly_name=Google Chrome
+_launch=Meta+G,Meta+G,Google Chrome
+
+
+FIM

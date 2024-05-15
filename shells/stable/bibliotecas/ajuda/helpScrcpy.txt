@@ -1,0 +1,8 @@
+################################MENU DE AJUDA################################
+Opções do programa:
+
+-conectar= Irá conectar o dispositivo corresponde(disponivel apenas para o USER brenner)
+-desconectar= Irá desconectar o dispositivo correspondentes(disponivel apenas para o USER brenner)
+-h|--help= Abrirá o menu de ajuda
+
+#################################### FIM ####################################

@@ -1,0 +1,17 @@
+# Criando um arquivo de configuração para startar um script shell automaticamente
+# Ao iniciar a sessao do usuario
+
+# Criando o arquivo no diretorio /home/brenner/.config/autostart
+# Arquivo com extensao .desktop
+
+[Desktop Entry]
+Type=Application
+Name=OpenURL
+Exec='/home/brenner/Área de Trabalho/scripts/betas/chrome.sh' # Aqui é o caminho do script que deseja startar
+
+
+
+
+
+
+# FIM

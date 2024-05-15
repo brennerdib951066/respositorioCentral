@@ -1,0 +1,12 @@
+# Detalhes do comando SCP
+# Comando para enviar arquivos e pastas para outro pc
+# Por meio de internet
+
+# SINTAX
+
+scp [Pasta([-r])/arquivos a serem enviados] [nomeHost]@ip:"'[pasta que ira receber]'"
+
+# IMPORTANTE:
+Sempre colocar a pasta que ira receber os dados entre aspas simples e duplas
+
+FIM

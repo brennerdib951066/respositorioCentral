@@ -1,0 +1,8 @@
+# Opções do comando PKEXEC
+# Serve para pedir a senha de root para o usuário, usar um programa por exemplo
+# Caso tenha um programa, basta criar um arquivo no diretório /usr/bin/
+
+pkexec [programa] [parametro()]
+# Exemplo pkexec /usr/bin/instalador.sh "" 
+
+FIM

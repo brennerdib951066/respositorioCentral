@@ -1,0 +1,10 @@
+# Opções do comando USERDEL
+# Exclui as contas de usuários
+# Deve ser usado como root
+
+userdel [-r apaga o home do usuário] [Nome Do Usuário]
+# Exemplo
+
+sudo userdel Denner
+
+FIM

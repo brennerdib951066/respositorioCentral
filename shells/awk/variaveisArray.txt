@@ -1,0 +1,13 @@
+# Exemplo da sintaxe da criação de variaveis
+
+# Não se pode começar com numero
+# É case sensetive
+# Pode incrementar com var++ ou var = var +1
+# Pode-se atribuir o retorno de uma função em uma variável var = function()
+
+# Exemplos na prática
+
+awk -v var="Brenner" 'BEGIN { print var }' # Exemplo na linha de comando, no caso não se po haver espaços na atribuição do valor da variavel
+awk -v var="Brenner" -v var2="Denner" 'BEGIN { print var,var2 }' # Imprimindo mais de uma variável
+awk 'BEGIN { var = "Brenner"; print var }' # Neste caso como está dentro do programa awk(programa) pode-se ter espaços!
+awk '{print var,$1}' var="Hiro" <<<"Takahashi" # Neste caso é depois do programa, funcionando via hire string

@@ -1,0 +1,12 @@
+###################################################### MANUAL DE AJUDA #######################################################################
+ PROGRAMA DIARIO:
+
+ -l | --lista     = Listará o seu diário completamente
+
+ -d | --deletar   = Deletará uma linha a qual você escolher em relação a numeração da linha correspondente
+
+ -p | --pesquisar = Pesquisará a linha correspondente de acordo com as palavras que inserir na pesquisa
+
+ -a | --ajuda     = Mostrará ajuda de acordo com essse manual
+
+#############################################################################################################################################

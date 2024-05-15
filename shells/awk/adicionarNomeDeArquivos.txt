@@ -1,0 +1,7 @@
+# Podemos criar varios arquivos separando por uma coluna que está no arquivos
+# Adcionando assim o nome de cada arquivo criado, com base na coluna escolhida
+
+# EXEMPLO
+# Criando varios arquivos com o nome da coluna 27 do arquivo clientes.txt
+
+awk 'BEGIN { FS="," } NR>1 {print >> $27".csv" } ' clientes.txt

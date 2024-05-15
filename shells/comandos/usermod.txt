@@ -1,0 +1,12 @@
+# Opções do comando USERMOD
+# Modifica uma conta de usuário existente
+
+-u = Altera o UID do usuário com id específicado
+-s = Muda o shell do usuário
+-g = Altera o grupo primário para o usuário
+-G = grupo1, grupo2, grupo3, torna o usuário em relação a lista de grupos epecíficados
+-c = Define ou altera os comentários que estão relacionados ao usuário
+
+usermod [opcao(s)] [Nome Do Usuário]
+
+FIM

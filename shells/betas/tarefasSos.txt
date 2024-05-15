@@ -1,0 +1,6 @@
+# 1° Criar uma verificação se no pc do usuário existe o zenity [ok]
+# 2° Caso existe fazer a modificação da variavel zenity para 'sim' [ok]
+# 3° Conforme for verificado o estado da variavel, criar opções de programa para o usuário [ok]
+# 4° Criar a primeira função para mostrar a interface zenity para o usuário [ok]
+# 5° procurar uma forma de pegar os dados que vem do arquivo e salvar em uma array através de seu delimitador [ok]
+# 6° Criar uma função para receber o resultado da variavel que recebe seus indices pelo cut [ok]

@@ -1,0 +1,37 @@
+# Controlando a saída do awk
+
+# Exemplo se eu quiser apenas concatenar sem necessidade de usar um arquivo(usando BEGIN)
+
+awk 'BEGIN { print "Eu" "Sou" "Bonito"}'
+
+# Exemplo caso queira imprimir os valores separados, precisa-se da virgula
+
+awk 'BEGIN {print "Eu" , "Sou" , "Bonito"}'
+
+# Exemplo sem o uso do BEGIN, porem usando uma hire string
+
+awk '{print}' <<<'Eu sou bonito'
+
+# Exemplo se eu mandar usar o separador -F',' e imprimir todos os dados, ele irá mostrar todo o texto da forma que se encontra
+
+awk '{print}' <<<'Brenner,denner,rosa'
+
+# Exemplo concatenando com string
+
+awk -F',' '{print $1" ""Bonito",$2" ""Feio",$3" ""Não conheço"}' <<<'Brenner,denner,rosa'
+
+# Exemplo concatenando com uma variavel especial do awk
+
+awk -F',' 'BEGIN{OFS="||"} {print $1,$2,$3}' <<<'Brenner,denner,rosa'
+
+# Exemplo imprimindo numeros com o print
+
+awk 'BEGIN {OFMT="%.2f"; print 3.3,3.5,3.7}'
+
+# Exemplo imprimindo numeros com o printf
+
+awk -F',' 'BEGIN { printf "%s %s %s\n" ,"Brenner","Denner","Brenda"}'
+
+# Redirecionando as saidas para arquivos
+
+awk -F',' 'BEGIN { OFS="||||" } { print $1,$2,$3 > "TESTEAWK.txt" }' <<<"Brenner,Denner,Brenda"

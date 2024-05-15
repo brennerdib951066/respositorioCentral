@@ -1,0 +1,25 @@
+# Detalhes do comando MAPFILE
+
+# mapFIle é um comando que recebe strings vindo através de um arquivo de texto e salva em uma variável array
+
+# -d = Recebe a(s) string(s) salvando em uma array, essa opção é simplismente para específicar o delimitador para salvar as strings em array
+# -t = Retira as quebras de linhas, por cada array salva
+
+# mapfile [-d -t] [nomeDaArray] < arquivo
+
+# EXEMPLO
+
+# mapFile -d',' -t dados < arquivo
+
+# DICA
+# Toda vez que vinher dados de um arquivo ele irá armazenar no final a array um '\r'
+# Para retirar esse '\r', basta por em uma variavel, e usar uma expansão para o tal feito
+# EXEMPLO
+
+# arquivo = '/home/estudo/Área de Trabalho/dados.txt'
+# mapfile -t dado < "${arquivo}"
+# dado="${dado//$'\r'/}"
+
+# FIM
+
+

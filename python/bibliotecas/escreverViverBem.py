@@ -1,0 +1,17 @@
+dados = {'nome':'teste periodico equipe ti','responsavel financeiro':'hiro','profissao':'programador','email':'bash@gmail.com','altura':'1,65',
+'peso':'54,67','tipo documento':'tipo documento','escolhendo tipo de documento':'escolhendo tipo de documento',
+'numero Documento':'65254414564','idade':'210','sexo' :'sexo','escolhendo sexo' :'escolhendo sexo','estado civil':'estado civil',
+'escolhendo estado civil':'escolhendo estado civil','telefone':'6130405685','escolaridade':'escolaridade',
+'escolhendo escolaridade':'escolhendo escolaridade','tipo de cliente' :'tipo de cliente',
+'escolhendo tipo de cliente':'escolhendo tipo de cliente','nome do plano':'bashrc','possuie dependentes':'possuie dependentes',
+'escolhendo possui':'escolhendo possui','possui carencia':'possui carencia','escolhendo possui carencia':'escolhendo possui carencia' ,
+'quantidade de vidas':'0','vigencia':'vigencia','escolhendo vigencia':'escolhendo vigencia','acomodacao':'acomodacao',
+'escolhendo acomodacao':'escolhendo acomodacao' ,'comparticipacao':'comparticipacao','escolhendo comparticipacao':'escolhendo comparticipacao','valor do plano':'0','valor da adesão':'0','operadora':'operadora','escolhendo operadora':'escolhendo operadora',
+'entidade':'fishi','administradora':'administradora','escolhendo administradora':'escolhendo administradora',
+'vencimento dos boletos':'vencimento dos boletos','escolhendo v.dos boletos':'escolhendo v.dos boletos',
+'vencimento da adesao':'vencimento da adesao','escolhendo v.da adesao':'escolhendo v.da adesao','data da venda':'data da venda',
+'escolhendo data da venda' :'escolhendo data da venda','mes da venda':'mes da venda','escolhendo mes da venda':'escolhendo mes da venda','status da venda':'status da venda','escolhendo status da venda':'escolhendo status da venda','logradouro':'logradouro',
+'escolhendo logradouro':'escolhendo logradouro','abrangencia do plano':'abrangencia do plano','escolhendo abrangencia do plano':'escolhendo abrangencia do plano','sala':'sala','escolhendo sala':'escolhendo sala','gerentes':'gerentes','escolhendo gerentes':'escolhendo gerentes',
+'supervisor':'supervisor','escolhendo supervisor':'escolhendo supervisor','tipo de venda':'tipo de venda','esconlhendo tipo de venda':'esconlhendo tipo de venda','mais titulares':'mais titulares','escolhendo mais titulares':'escolhendo mais titulares',
+'todos os titulares':'titular 1: python\ntitular 2: dash','cadastrando':'cadastrando'
+}

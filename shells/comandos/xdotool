@@ -1,0 +1,9 @@
+# Detalhes do comando XDOTOOL
+
+# Envia dados do teclado para a saida
+
+# Para enviar o acento agudo na letra a
+xdotool key Aacute
+
+# Mover para uma area da tela e depois retornar para o local onde o mouse começou
+xdotool mousemove 0 0 click 1 mousemove restore

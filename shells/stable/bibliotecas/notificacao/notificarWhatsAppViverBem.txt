@@ -1,0 +1,21 @@
+# Ids do usuário
+
+idsBot=("379274836" "109046914" "161444777")
+nomeUsuario=("Brenner Oficial" "Denner" "Brenner Internet campanha viver bem")
+notificar(){
+    #idsBot=("385910829" "193741501" "161444777")
+    #nomeUsuario=("Brenner Oficial" "Denner" "Brenner Internet Nossa campanha" "Brenner Internet camoanha viver bem")
+
+    chaveApi='91b381b2-97c7-4fb1-998b-de3ff0d50d72'
+    contentType='application/json'
+    urlApi='https://backend.botconversa.com.br/api/v1/webhook/subscriber/subscriber_id/send_message/'
+    #mensagens=("Testando a notificação")
+
+    curl -X POST -H"Content-Type: $contentType" -H"API-KEY: $chaveApi" -d"{ \"type\": \"text\", \"value\": \"*${2}*\"}" ${urlApi/subscriber_id/${1}}
+
+}
+
+
+
+
+

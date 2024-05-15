@@ -1,0 +1,7 @@
+Hspell: can't open /usr/share/hspell/hebrew.wgz.sizes.
+kf.sonnet.clients.hspell: HSpellDict::HSpellDict: Init failed
+kf.sonnet.core: No language dictionaries for the language: "pt_BR" trying to load en_US as default
+Qt: Session management error: networkIdsList argument is NULL
+KCrash: crashing... crashRecursionCounter = 2
+KCrash: Application Name = kate path = /usr/bin pid = 14248
+KCrash: Arguments: /usr/bin/kate /home/estudo/Área de Trabalho/scripts/betas/criarSubscriber.sh 

@@ -1,0 +1,10 @@
+# Exemplos de funções internas do awk
+
+# Inprimindo numero inteiro
+
+awk 'BEGIN { n = 1.9 ; print int(n) }'
+
+# Imprimindo a raiz quadrada
+
+awk 'BEGIN { n = 25 ; print sqrt(n) }'
+

@@ -1,0 +1,16 @@
+# Opções do comando USERADD
+# Cria um novo usuário para maquina
+
+-c = Comentário do usuário, o mesmo do usermod
+-d = Define o diretório home do usuário
+-m = Cria e preenche o diretório home do usuário
+-s = Redefine o shell do usuário
+-e = Data de expiração que a conta criada será desabilitada
+-u = Redefine o UID do usuário igual ao comando USERMOD
+
+useradd [opcao(s)] [Nome Do Novo Usuário]
+# Exemplo
+
+sudo useradd -m -c 'Brenda Santos' -s /bin/zsh brenda
+
+FIM

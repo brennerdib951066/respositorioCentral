@@ -1,0 +1,23 @@
+############## Variaveis ########################
+branch="brenner"
+
+#################################################
+
+criado(){
+    git checkout $branch
+    git add "$HOME/Área de Trabalho/scripts/"
+    git commit -m 'Commit'
+    git push -u origin $branch
+}
+
+naoCriado(){
+    git init "$HOME/Área de Trabalho/scripts/"
+    git add "$HOME/Área de Trabalho/scripts/"
+    git commit -m 'Commit'
+    git branch $branch
+    git remote add origin https://github.com/DIBCode/CentralDeScriptsDIBCode.git
+    git push -u origin $branch
+
+}
+
+[ ! -d "$HOME/Área de Trabalho/scripts/${pasta}" ] && naoCriado || criado

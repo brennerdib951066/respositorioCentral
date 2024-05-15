@@ -1,0 +1,16 @@
+Acesse como root
+# Comandos
+
+fdisk -l
+
+# Saber o UID do disco
+blkid
+
+# Adicionar o UID mais alguns detalhes no arquivo /etc/fstab
+
+UUID="2A57-D449" /mnt/backups auto nosuid,nodev,nofail,x-gvfs-show 0 0
+
+REINICIAR O SISTEMA
+
+
+# Caso com o pc ja reiniciado, você tirar o pendriver e coloca-lo novamnete na entrada ele ira monta-lo em outro lugar automaticamente

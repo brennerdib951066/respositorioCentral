@@ -1,0 +1,6 @@
+nomePlayListAmadori=('calling' 'ryuusei')
+
+calling=('xIYKc06_SnA' 'p2t_YnVAP_k' 'f35X7sGEFOM' 'MfpSmUNrvrI' 'ScKgBxcAPjs' 'rL2BPwI4s-M' 'PFVwnYytokc' '_gJfdm3pI8E' 'Aw0H9TiXfI0' 'E7XjxNzG2oE' 'vHKxcQL7BoY')
+
+ryuusei=('oqdxf54Ll00' 'Cdi6B60M_1Y' 'iZQMB98aYAM')
+

@@ -1,0 +1,5 @@
+Hspell: can't open /usr/share/hspell/hebrew.wgz.sizes.
+kf.sonnet.clients.hspell: HSpellDict::HSpellDict: Init failed
+kf.sonnet.core: No language dictionaries for the language: "pt_BR" trying to load en_US as default
+Qt: Session management error: networkIdsList argument is NULL
+Qt: Session management error: networkIdsList argument is NULL

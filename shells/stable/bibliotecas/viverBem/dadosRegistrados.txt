@@ -1,0 +1,89 @@
+{
+    "status": "success",
+    "id": "1698356058687x113183303513415540"
+}{
+    "status": "success",
+    "id": "1698356059287x140799805729335150"
+}
+jullia,rodrigues,rodrigues@gmail.com,12345,5595991304066,,
+VERSION DE TESTE
+{
+    "status": "success",
+    "id": "1698415779168x808835694561994100"
+}{
+    "status": "success",
+    "id": "1698415780292x128382208388984510"
+}
+brenner,oficial,setor.comercial.brennerOficial@gmail.com,familiadib,5561998923936,,
+VERSION DE TESTE
+{"error_class":"UserError","args":{"code":"1698427800380x546118602270423000"},"message":"NOT_VALID_EMAIL","translation":"Este endereço de Email não parece ser válido:brenner"}{"error_class":"UserError","args":{"code":"1698427800903x295750610071131300"},"message":"NOT_VALID_EMAIL","translation":"Este endereço de Email não parece ser válido:brenner"}
+DIB,Denner,brenner
+VERSION DE TESTE
+{
+    "status": "success",
+    "id": "1698427933199x287799556972112130"
+}{
+    "status": "success",
+    "id": "1698427934001x286809533910469250"
+}
+DIB,DIBDIB,setor.comercial.dib2@viverbem.com,12345,61996657918,,
+VERSION DE TESTE
+
+
+{"error_class":"UserError","args":{"code":"1698666031959x584638577391092500"},"message":"NOT_VALID_EMAIL","translation":"Este endereço de Email não parece ser válido:5561998923936"}{"error_class":"UserError","args":{"code":"1698666032885x497602435863393400"},"message":"NOT_VALID_EMAIL","translation":"Este endereço de Email não parece ser válido:5561998923936"}
+brenner,oficial,5561998923936
+VERSION DE TESTE
+{
+    "status": "success",
+    "id": "1698666142638x397294645459095100"
+}{
+    "status": "success",
+    "id": "1698666143147x608312992640147800"
+}
+brenner,oficial,setor.administrativo.brennerOficial@gmail.com
+VERSION DE TESTE
+{
+    "status": "success",
+    "id": "1699273354314x931095264312986600"
+}{
+    "status": "success",
+    "id": "1699273354960x629138634741126500"
+}
+Denner/Brenner,TestesPeriodicoseMelhorias,setor.comercial.dib@teste.com
+VERSION DE TESTE
+{"error_class":"UserError","args":{"code":"1699273512372x863479585779939700"},"message":"NOT_VALID_EMAIL","translation":"Este endereço de Email não parece ser válido:periodicos"}{"error_class":"UserError","args":{"code":"1699273513045x166017591795891260"},"message":"NOT_VALID_EMAIL","translation":"Este endereço de Email não parece ser válido:periodicos"}
+Denner/Brenner,Testes,Periodicos
+VERSION DE TESTE
+{
+    "status": "success",
+    "id": "1699273670930x140744250517117020"
+}{
+    "status": "success",
+    "id": "1699273671554x249234831330632060"
+}
+Denner/Brenner,TestesPeriodicoseMelhorias,setor.financeiro.dib@teste.com
+VERSION DE TESTE
+{
+    "status": "success",
+    "id": "1699273792321x309384376650464060"
+}{
+    "status": "success",
+    "id": "1699273792774x287409666344726980"
+}
+Denner/Brenner,TestesPeriodicoseMelhorias,setor.administrativo.dib@teste.com
+VERSION DE TESTE
+{
+    "status": "success",
+    "id": "1699274666515x872456897833873500"
+}{
+    "status": "success",
+    "id": "1699274667019x542424530803774500"
+}
+Denner/Brenner,TestesPeriodicoseMelhorias,setor.pos.dib@teste.com
+VERSION DE TESTE
+{"statusCode":400,"body":{"status":"INVALID_DATA","message":"Invalid data for field tipoDeEquipe: could not parse this as a TipoDeEquipe"}}{"statusCode":400,"body":{"status":"INVALID_DATA","message":"Invalid data for field tipoDeEquipe: could not parse this as a TipoDeEquipe"}}
+CLT-vitoria-Supervisor,Pereira,setor.comercial.supervisor.vitoriapereira.minasbh.m3@viverbem.com,vitoria@6525,5531984164238,,
+VERSION DE TESTE
+{"statusCode":400,"body":{"status":"INVALID_DATA","message":"Invalid data for field tipoDeEquipe: could not parse this as a TipoDeEquipe"}}{"statusCode":400,"body":{"status":"INVALID_DATA","message":"Invalid data for field tipoDeEquipe: could not parse this as a TipoDeEquipe"}}
+vitoriaPereira,Pereira,setor.comercial.supervisor.vitoria.minasbh.m3@viverbem.com,vitoria@6525,5531984164238,,
+VERSION DE TESTE

@@ -1,0 +1,9 @@
+Opções do comando UNIQ
+# Indicado para ser usado com o comando SORT, pode ser usado sozinho tambem
+
+-c = Mostra a quantidade de dados em numeros encontrados se tiver dados com mais de um ele mostrará tambem
+-d =  Mostra somente os dados repetidos, porém diferencia as letras maiúculas de minúsculas
+-D = Mostra somente os dados repetidos linha a linha
+-i = Ignora os maiúculos de minúsculos, poderá ser usado com as opções anteriores
+
+FIM

@@ -1,0 +1,13 @@
+Opções do comando GREP
+# Indicado para procurar padrões em arquivos ou até saídas de outros comandos(programas)
+-E = Ativa o modo extendido de expressão regular
+-i = Ignora os maiúsculos das minúsculas
+-v = Inverte a afirmação do sua expressão
+w = Busca padrões somente se a expressão for uma palavra inteira
+c = Mostra a quantidade em numeros da afirmação ou expressão solicitada
+-q = Busca os padrões solicitado porém não manda pra tela
+-o = Mostra somente as ocorrências(padrões) solicitado
+
+grep [opcao(s)] [arquivo.txt]
+
+FIM

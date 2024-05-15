@@ -1,0 +1,13 @@
+# Backups
+
+c=Criar
+x=Extrair
+P=Tira os avisos de \ barra
+p=Não lembro
+S=Lhe da melhor a compressão
+v=Verbose
+z=Compri com gzip
+
+tar -czSpPvf [Diretorio que assumirá o backup] [Diretorio será usado para o backup]
+
+FIM

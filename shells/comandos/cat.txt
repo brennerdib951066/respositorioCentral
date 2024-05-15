@@ -1,0 +1,8 @@
+Opções do comando CAT
+
+-b = Não mostra em numeros as linhas vazias
+-n = Mostra em numeros as linhas vazias ou não
+
+cat [opcao(s)] [arquivo]
+
+FIM

@@ -1,0 +1,10 @@
+# Opções do comando ls
+
+-l = Lista de forma longa mostrando o criador do arquivo por exemplo
+-a = Lista tudo inclusive os ocultos
+-h = Lista com tamanho dos arquivos, diretorios etc..
+-m = Lista tudo seprados por virgula, poderá ser usado como vertores por exemplo
+
+ls [opcoes]
+
+FIM
